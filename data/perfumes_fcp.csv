@@ -1,0 +1,565 @@
+Panelist,Perfume,Descriptor,Value
+P1,Angel,aldehyde,6.5
+P1,Angel,animal,5.5
+P1,Angel,boise,11.5
+P1,Angel,cuir,8.5
+P1,Angel,epice,2.5
+P1,Angel,fleuri,1.5
+P1,Angel,fruite,8
+P1,Angel,gourmande,12
+P1,Angel,hesperides_agrumes,8
+P1,Angel,oriental_vanille,12
+P1,Angel,poudre,4
+P1,Angel,vert,7.5
+P1,Aromatics Elixir,aldehyde,11
+P1,Aromatics Elixir,animal,11
+P1,Aromatics Elixir,boise,11.5
+P1,Aromatics Elixir,cuir,11
+P1,Aromatics Elixir,epice,7.5
+P1,Aromatics Elixir,fleuri,4
+P1,Aromatics Elixir,fruite,3
+P1,Aromatics Elixir,gourmande,2.5
+P1,Aromatics Elixir,hesperides_agrumes,1
+P1,Aromatics Elixir,oriental_vanille,4
+P1,Aromatics Elixir,poudre,6
+P1,Aromatics Elixir,vert,3
+P1,Chanel5,aldehyde,12
+P1,Chanel5,animal,7.5
+P1,Chanel5,boise,8
+P1,Chanel5,cuir,6
+P1,Chanel5,epice,7.5
+P1,Chanel5,fleuri,7
+P1,Chanel5,fruite,1.5
+P1,Chanel5,gourmande,2.5
+P1,Chanel5,hesperides_agrumes,3
+P1,Chanel5,oriental_vanille,7
+P1,Chanel5,poudre,11
+P1,Chanel5,vert,3
+P1,Cinema,aldehyde,6.5
+P1,Cinema,animal,9.5
+P1,Cinema,boise,3.5
+P1,Cinema,cuir,8.5
+P1,Cinema,epice,10
+P1,Cinema,fleuri,5.5
+P1,Cinema,fruite,8
+P1,Cinema,gourmande,10
+P1,Cinema,hesperides_agrumes,5.5
+P1,Cinema,oriental_vanille,9
+P1,Cinema,poudre,5
+P1,Cinema,vert,6
+P1,Coco Mademoiselle,aldehyde,9.5
+P1,Coco Mademoiselle,animal,9.5
+P1,Coco Mademoiselle,boise,6.5
+P1,Coco Mademoiselle,cuir,8.5
+P1,Coco Mademoiselle,epice,2.5
+P1,Coco Mademoiselle,fleuri,8.5
+P1,Coco Mademoiselle,fruite,4.5
+P1,Coco Mademoiselle,gourmande,9
+P1,Coco Mademoiselle,hesperides_agrumes,10.5
+P1,Coco Mademoiselle,oriental_vanille,5.5
+P1,Coco Mademoiselle,poudre,8.5
+P1,Coco Mademoiselle,vert,7.5
+P1,JadoreEP,aldehyde,6.5
+P1,JadoreEP,animal,2.5
+P1,JadoreEP,boise,1.5
+P1,JadoreEP,cuir,2.5
+P1,JadoreEP,epice,5.5
+P1,JadoreEP,fleuri,11
+P1,JadoreEP,fruite,11
+P1,JadoreEP,gourmande,5.5
+P1,JadoreEP,hesperides_agrumes,10.5
+P1,JadoreEP,oriental_vanille,3
+P1,JadoreEP,poudre,2
+P1,JadoreEP,vert,10.5
+P1,JadoreET,aldehyde,6.5
+P1,JadoreET,animal,2.5
+P1,JadoreET,boise,1.5
+P1,JadoreET,cuir,2.5
+P1,JadoreET,epice,5.5
+P1,JadoreET,fleuri,11
+P1,JadoreET,fruite,11
+P1,JadoreET,gourmande,5.5
+P1,JadoreET,hesperides_agrumes,10.5
+P1,JadoreET,oriental_vanille,1.5
+P1,JadoreET,poudre,2
+P1,JadoreET,vert,10.5
+P1,Linstant,aldehyde,1
+P1,Linstant,animal,2.5
+P1,Linstant,boise,6.5
+P1,Linstant,cuir,2.5
+P1,Linstant,epice,2.5
+P1,Linstant,fleuri,5.5
+P1,Linstant,fruite,4.5
+P1,Linstant,gourmande,8
+P1,Linstant,hesperides_agrumes,4
+P1,Linstant,oriental_vanille,9
+P1,Linstant,poudre,11
+P1,Linstant,vert,5
+P1,Lolita Lempicka,aldehyde,2
+P1,Lolita Lempicka,animal,5.5
+P1,Lolita Lempicka,boise,9.5
+P1,Lolita Lempicka,cuir,8.5
+P1,Lolita Lempicka,epice,2.5
+P1,Lolita Lempicka,fleuri,1.5
+P1,Lolita Lempicka,fruite,11
+P1,Lolita Lempicka,gourmande,11
+P1,Lolita Lempicka,hesperides_agrumes,2
+P1,Lolita Lempicka,oriental_vanille,11
+P1,Lolita Lempicka,poudre,7
+P1,Lolita Lempicka,vert,3
+P1,Pleasures,aldehyde,4
+P1,Pleasures,animal,2.5
+P1,Pleasures,boise,3.5
+P1,Pleasures,cuir,2.5
+P1,Pleasures,epice,11
+P1,Pleasures,fleuri,11
+P1,Pleasures,fruite,6
+P1,Pleasures,gourmande,2.5
+P1,Pleasures,hesperides_agrumes,7
+P1,Pleasures,oriental_vanille,1.5
+P1,Pleasures,poudre,2
+P1,Pleasures,vert,10.5
+P1,Pure Poison,aldehyde,9.5
+P1,Pure Poison,animal,7.5
+P1,Pure Poison,boise,5
+P1,Pure Poison,cuir,5
+P1,Pure Poison,epice,9
+P1,Pure Poison,fleuri,8.5
+P1,Pure Poison,fruite,8
+P1,Pure Poison,gourmande,7
+P1,Pure Poison,hesperides_agrumes,10.5
+P1,Pure Poison,oriental_vanille,5.5
+P1,Pure Poison,poudre,8.5
+P1,Pure Poison,vert,10.5
+P1,Shalimar,aldehyde,3
+P1,Shalimar,animal,12
+P1,Shalimar,boise,9.5
+P1,Shalimar,cuir,12
+P1,Shalimar,epice,12
+P1,Shalimar,fleuri,3
+P1,Shalimar,fruite,1.5
+P1,Shalimar,gourmande,2.5
+P1,Shalimar,hesperides_agrumes,5.5
+P1,Shalimar,oriental_vanille,9
+P1,Shalimar,poudre,11
+P1,Shalimar,vert,1
+P2,Angel,boise,11
+P2,Angel,chaude_orientale,12
+P2,Angel,ecoeurante,7
+P2,Angel,florale,3
+P2,Angel,fruite,10
+P2,Angel,gourmande,12
+P2,Angel,ostentatoire,12
+P2,Aromatics Elixir,boise,12
+P2,Aromatics Elixir,chaude_orientale,6
+P2,Aromatics Elixir,ecoeurante,6
+P2,Aromatics Elixir,florale,11
+P2,Aromatics Elixir,fruite,2
+P2,Aromatics Elixir,gourmande,2
+P2,Aromatics Elixir,ostentatoire,11
+P2,Chanel5,boise,8
+P2,Chanel5,chaude_orientale,5
+P2,Chanel5,ecoeurante,8
+P2,Chanel5,florale,12
+P2,Chanel5,fruite,1
+P2,Chanel5,gourmande,1
+P2,Chanel5,ostentatoire,7
+P2,Cinema,boise,4
+P2,Cinema,chaude_orientale,8
+P2,Cinema,ecoeurante,1
+P2,Cinema,florale,2
+P2,Cinema,fruite,7
+P2,Cinema,gourmande,7
+P2,Cinema,ostentatoire,3
+P2,Coco Mademoiselle,boise,5
+P2,Coco Mademoiselle,chaude_orientale,7
+P2,Coco Mademoiselle,ecoeurante,2
+P2,Coco Mademoiselle,florale,8
+P2,Coco Mademoiselle,fruite,8
+P2,Coco Mademoiselle,gourmande,9
+P2,Coco Mademoiselle,ostentatoire,6
+P2,JadoreEP,boise,2
+P2,JadoreEP,chaude_orientale,1
+P2,JadoreEP,ecoeurante,12
+P2,JadoreEP,florale,5
+P2,JadoreEP,fruite,12
+P2,JadoreEP,gourmande,4
+P2,JadoreEP,ostentatoire,3
+P2,JadoreET,boise,1
+P2,JadoreET,chaude_orientale,2
+P2,JadoreET,ecoeurante,11
+P2,JadoreET,florale,4
+P2,JadoreET,fruite,11
+P2,JadoreET,gourmande,5
+P2,JadoreET,ostentatoire,3
+P2,Linstant,boise,6
+P2,Linstant,chaude_orientale,9
+P2,Linstant,ecoeurante,5
+P2,Linstant,florale,7
+P2,Linstant,fruite,4
+P2,Linstant,gourmande,8
+P2,Linstant,ostentatoire,10
+P2,Lolita Lempicka,boise,7
+P2,Lolita Lempicka,chaude_orientale,11
+P2,Lolita Lempicka,ecoeurante,4
+P2,Lolita Lempicka,florale,6
+P2,Lolita Lempicka,fruite,9
+P2,Lolita Lempicka,gourmande,11
+P2,Lolita Lempicka,ostentatoire,8
+P2,Pleasures,boise,3
+P2,Pleasures,chaude_orientale,3
+P2,Pleasures,ecoeurante,9
+P2,Pleasures,florale,10
+P2,Pleasures,fruite,6
+P2,Pleasures,gourmande,3
+P2,Pleasures,ostentatoire,3
+P2,Pure Poison,boise,9
+P2,Pure Poison,chaude_orientale,4
+P2,Pure Poison,ecoeurante,10
+P2,Pure Poison,florale,9
+P2,Pure Poison,fruite,5
+P2,Pure Poison,gourmande,6
+P2,Pure Poison,ostentatoire,3
+P2,Shalimar,boise,10
+P2,Shalimar,chaude_orientale,10
+P2,Shalimar,ecoeurante,3
+P2,Shalimar,florale,1
+P2,Shalimar,fruite,3
+P2,Shalimar,gourmande,10
+P2,Shalimar,ostentatoire,9
+P3,Angel,aldehyde,5.5
+P3,Angel,boise,9
+P3,Angel,floral,2.5
+P3,Angel,gourmand,10.5
+P3,Angel,musque,4.5
+P3,Angel,vanille,5
+P3,Angel,vert,3
+P3,Aromatics Elixir,aldehyde,12
+P3,Aromatics Elixir,boise,11
+P3,Aromatics Elixir,floral,2.5
+P3,Aromatics Elixir,gourmand,3.5
+P3,Aromatics Elixir,musque,4.5
+P3,Aromatics Elixir,vanille,5
+P3,Aromatics Elixir,vert,6
+P3,Chanel5,aldehyde,11
+P3,Chanel5,boise,4.5
+P3,Chanel5,floral,5.5
+P3,Chanel5,gourmand,3.5
+P3,Chanel5,musque,4.5
+P3,Chanel5,vanille,5
+P3,Chanel5,vert,3
+P3,Cinema,aldehyde,5.5
+P3,Cinema,boise,4.5
+P3,Cinema,floral,10.5
+P3,Cinema,gourmand,7.5
+P3,Cinema,musque,4.5
+P3,Cinema,vanille,11
+P3,Cinema,vert,8
+P3,Coco Mademoiselle,aldehyde,5.5
+P3,Coco Mademoiselle,boise,4.5
+P3,Coco Mademoiselle,floral,5.5
+P3,Coco Mademoiselle,gourmand,3.5
+P3,Coco Mademoiselle,musque,4.5
+P3,Coco Mademoiselle,vanille,5
+P3,Coco Mademoiselle,vert,8
+P3,JadoreEP,aldehyde,5.5
+P3,JadoreEP,boise,4.5
+P3,JadoreEP,floral,10.5
+P3,JadoreEP,gourmand,10.5
+P3,JadoreEP,musque,12
+P3,JadoreEP,vanille,5
+P3,JadoreEP,vert,11
+P3,JadoreET,aldehyde,5.5
+P3,JadoreET,boise,4.5
+P3,JadoreET,floral,10.5
+P3,JadoreET,gourmand,10.5
+P3,JadoreET,musque,11
+P3,JadoreET,vanille,12
+P3,JadoreET,vert,3
+P3,Linstant,aldehyde,5.5
+P3,Linstant,boise,4.5
+P3,Linstant,floral,7.5
+P3,Linstant,gourmand,7.5
+P3,Linstant,musque,4.5
+P3,Linstant,vanille,10
+P3,Linstant,vert,8
+P3,Lolita Lempicka,aldehyde,5.5
+P3,Lolita Lempicka,boise,10
+P3,Lolita Lempicka,floral,2.5
+P3,Lolita Lempicka,gourmand,10.5
+P3,Lolita Lempicka,musque,10
+P3,Lolita Lempicka,vanille,5
+P3,Lolita Lempicka,vert,3
+P3,Pleasures,aldehyde,5.5
+P3,Pleasures,boise,12
+P3,Pleasures,floral,10.5
+P3,Pleasures,gourmand,3.5
+P3,Pleasures,musque,9
+P3,Pleasures,vanille,5
+P3,Pleasures,vert,11
+P3,Pure Poison,aldehyde,5.5
+P3,Pure Poison,boise,4.5
+P3,Pure Poison,floral,7.5
+P3,Pure Poison,gourmand,3.5
+P3,Pure Poison,musque,4.5
+P3,Pure Poison,vanille,5
+P3,Pure Poison,vert,11
+P3,Shalimar,aldehyde,5.5
+P3,Shalimar,boise,4.5
+P3,Shalimar,floral,2.5
+P3,Shalimar,gourmand,3.5
+P3,Shalimar,musque,4.5
+P3,Shalimar,vanille,5
+P3,Shalimar,vert,3
+P4,Angel,chypre,12
+P4,Angel,clair,4
+P4,Angel,floral,3
+P4,Angel,fruite,9
+P4,Angel,gourmand,12
+P4,Angel,oriental_ambre,7
+P4,Angel,vert,1
+P4,Aromatics Elixir,chypre,11
+P4,Aromatics Elixir,clair,2
+P4,Aromatics Elixir,floral,2
+P4,Aromatics Elixir,fruite,3
+P4,Aromatics Elixir,gourmand,6
+P4,Aromatics Elixir,oriental_ambre,11
+P4,Aromatics Elixir,vert,7
+P4,Chanel5,chypre,4
+P4,Chanel5,clair,6
+P4,Chanel5,floral,12
+P4,Chanel5,fruite,1
+P4,Chanel5,gourmand,1
+P4,Chanel5,oriental_ambre,5
+P4,Chanel5,vert,3
+P4,Cinema,chypre,9
+P4,Cinema,clair,5
+P4,Cinema,floral,5
+P4,Cinema,fruite,5
+P4,Cinema,gourmand,8
+P4,Cinema,oriental_ambre,9
+P4,Cinema,vert,5
+P4,Coco Mademoiselle,chypre,8
+P4,Coco Mademoiselle,clair,7
+P4,Coco Mademoiselle,floral,8
+P4,Coco Mademoiselle,fruite,7
+P4,Coco Mademoiselle,gourmand,9
+P4,Coco Mademoiselle,oriental_ambre,1
+P4,Coco Mademoiselle,vert,10
+P4,JadoreEP,chypre,3
+P4,JadoreEP,clair,9
+P4,JadoreEP,floral,10.5
+P4,JadoreEP,fruite,10
+P4,JadoreEP,gourmand,3
+P4,JadoreEP,oriental_ambre,4
+P4,JadoreEP,vert,11
+P4,JadoreET,chypre,5
+P4,JadoreET,clair,11
+P4,JadoreET,floral,7
+P4,JadoreET,fruite,11
+P4,JadoreET,gourmand,2
+P4,JadoreET,oriental_ambre,6
+P4,JadoreET,vert,8
+P4,Linstant,chypre,7
+P4,Linstant,clair,12
+P4,Linstant,floral,6
+P4,Linstant,fruite,8
+P4,Linstant,gourmand,7
+P4,Linstant,oriental_ambre,11
+P4,Linstant,vert,6
+P4,Lolita Lempicka,chypre,10
+P4,Lolita Lempicka,clair,1
+P4,Lolita Lempicka,floral,4
+P4,Lolita Lempicka,fruite,6
+P4,Lolita Lempicka,gourmand,10
+P4,Lolita Lempicka,oriental_ambre,8
+P4,Lolita Lempicka,vert,4
+P4,Pleasures,chypre,2
+P4,Pleasures,clair,8
+P4,Pleasures,floral,9
+P4,Pleasures,fruite,12
+P4,Pleasures,gourmand,4
+P4,Pleasures,oriental_ambre,1
+P4,Pleasures,vert,12
+P4,Pure Poison,chypre,1
+P4,Pure Poison,clair,10
+P4,Pure Poison,floral,10.5
+P4,Pure Poison,fruite,4
+P4,Pure Poison,gourmand,5
+P4,Pure Poison,oriental_ambre,3
+P4,Pure Poison,vert,9
+P4,Shalimar,chypre,6
+P4,Shalimar,clair,3
+P4,Shalimar,floral,1
+P4,Shalimar,fruite,2
+P4,Shalimar,gourmand,11
+P4,Shalimar,oriental_ambre,12
+P4,Shalimar,vert,2
+P5,Angel,boise,11
+P5,Angel,fleurie,1.5
+P5,Angel,fruite,11
+P5,Angel,gourmande,12
+P5,Angel,musquee,2.5
+P5,Angel,verte,3.5
+P5,Aromatics Elixir,boise,12
+P5,Aromatics Elixir,fleurie,1.5
+P5,Aromatics Elixir,fruite,1.5
+P5,Aromatics Elixir,gourmande,5
+P5,Aromatics Elixir,musquee,6
+P5,Aromatics Elixir,verte,3.5
+P5,Chanel5,boise,2.5
+P5,Chanel5,fleurie,12
+P5,Chanel5,fruite,8
+P5,Chanel5,gourmande,2
+P5,Chanel5,musquee,7
+P5,Chanel5,verte,3.5
+P5,Cinema,boise,2.5
+P5,Cinema,fleurie,9
+P5,Cinema,fruite,1.5
+P5,Cinema,gourmande,10
+P5,Cinema,musquee,2.5
+P5,Cinema,verte,8
+P5,Coco Mademoiselle,boise,9
+P5,Coco Mademoiselle,fleurie,5
+P5,Coco Mademoiselle,fruite,9
+P5,Coco Mademoiselle,gourmande,9
+P5,Coco Mademoiselle,musquee,2.5
+P5,Coco Mademoiselle,verte,3.5
+P5,JadoreEP,boise,10
+P5,JadoreEP,fleurie,10
+P5,JadoreEP,fruite,10
+P5,JadoreEP,gourmande,6
+P5,JadoreEP,musquee,11
+P5,JadoreEP,verte,9
+P5,JadoreET,boise,5
+P5,JadoreET,fleurie,4
+P5,JadoreET,fruite,7
+P5,JadoreET,gourmande,3
+P5,JadoreET,musquee,5
+P5,JadoreET,verte,11
+P5,Linstant,boise,2.5
+P5,Linstant,fleurie,11
+P5,Linstant,fruite,4
+P5,Linstant,gourmande,7
+P5,Linstant,musquee,2.5
+P5,Linstant,verte,7
+P5,Lolita Lempicka,boise,7
+P5,Lolita Lempicka,fleurie,7
+P5,Lolita Lempicka,fruite,12
+P5,Lolita Lempicka,gourmande,11
+P5,Lolita Lempicka,musquee,9
+P5,Lolita Lempicka,verte,3.5
+P5,Pleasures,boise,2.5
+P5,Pleasures,fleurie,3
+P5,Pleasures,fruite,5
+P5,Pleasures,gourmande,1
+P5,Pleasures,musquee,8
+P5,Pleasures,verte,12
+P5,Pure Poison,boise,6
+P5,Pure Poison,fleurie,6
+P5,Pure Poison,fruite,6
+P5,Pure Poison,gourmande,8
+P5,Pure Poison,musquee,12
+P5,Pure Poison,verte,10
+P5,Shalimar,boise,8
+P5,Shalimar,fleurie,8
+P5,Shalimar,fruite,3
+P5,Shalimar,gourmande,4
+P5,Shalimar,musquee,10
+P5,Shalimar,verte,3.5
+P6,Angel,ambre,12
+P6,Angel,fleur_oranger,5
+P6,Angel,floralrose,9
+P6,Angel,fruite,12
+P6,Angel,hesperide,5
+P6,Angel,musquee,4
+P6,Angel,patchouli,10
+P6,Angel,vert,4
+P6,Aromatics Elixir,ambre,3
+P6,Aromatics Elixir,fleur_oranger,5
+P6,Aromatics Elixir,floralrose,3.5
+P6,Aromatics Elixir,fruite,3
+P6,Aromatics Elixir,hesperide,10
+P6,Aromatics Elixir,musquee,4
+P6,Aromatics Elixir,patchouli,12
+P6,Aromatics Elixir,vert,12
+P6,Chanel5,ambre,3
+P6,Chanel5,fleur_oranger,5
+P6,Chanel5,floralrose,11
+P6,Chanel5,fruite,3
+P6,Chanel5,hesperide,5
+P6,Chanel5,musquee,10
+P6,Chanel5,patchouli,4.5
+P6,Chanel5,vert,4
+P6,Cinema,ambre,9
+P6,Cinema,fleur_oranger,10
+P6,Cinema,floralrose,3.5
+P6,Cinema,fruite,8
+P6,Cinema,hesperide,5
+P6,Cinema,musquee,4
+P6,Cinema,patchouli,4.5
+P6,Cinema,vert,4
+P6,Coco Mademoiselle,ambre,10
+P6,Coco Mademoiselle,fleur_oranger,5
+P6,Coco Mademoiselle,floralrose,8
+P6,Coco Mademoiselle,fruite,6
+P6,Coco Mademoiselle,hesperide,5
+P6,Coco Mademoiselle,musquee,4
+P6,Coco Mademoiselle,patchouli,9
+P6,Coco Mademoiselle,vert,9
+P6,JadoreEP,ambre,3
+P6,JadoreEP,fleur_oranger,5
+P6,JadoreEP,floralrose,12
+P6,JadoreEP,fruite,11
+P6,JadoreEP,hesperide,5
+P6,JadoreEP,musquee,8
+P6,JadoreEP,patchouli,4.5
+P6,JadoreEP,vert,10
+P6,JadoreET,ambre,3
+P6,JadoreET,fleur_oranger,5
+P6,JadoreET,floralrose,10
+P6,JadoreET,fruite,10
+P6,JadoreET,hesperide,5
+P6,JadoreET,musquee,9
+P6,JadoreET,patchouli,4.5
+P6,JadoreET,vert,11
+P6,Linstant,ambre,8
+P6,Linstant,fleur_oranger,11
+P6,Linstant,floralrose,3.5
+P6,Linstant,fruite,9
+P6,Linstant,hesperide,5
+P6,Linstant,musquee,4
+P6,Linstant,patchouli,4.5
+P6,Linstant,vert,4
+P6,Lolita Lempicka,ambre,11
+P6,Lolita Lempicka,fleur_oranger,5
+P6,Lolita Lempicka,floralrose,3.5
+P6,Lolita Lempicka,fruite,7
+P6,Lolita Lempicka,hesperide,5
+P6,Lolita Lempicka,musquee,12
+P6,Lolita Lempicka,patchouli,4.5
+P6,Lolita Lempicka,vert,4
+P6,Pleasures,ambre,3
+P6,Pleasures,fleur_oranger,5
+P6,Pleasures,floralrose,7
+P6,Pleasures,fruite,3
+P6,Pleasures,hesperide,5
+P6,Pleasures,musquee,4
+P6,Pleasures,patchouli,4.5
+P6,Pleasures,vert,8
+P6,Pure Poison,ambre,7
+P6,Pure Poison,fleur_oranger,12
+P6,Pure Poison,floralrose,3.5
+P6,Pure Poison,fruite,3
+P6,Pure Poison,hesperide,12
+P6,Pure Poison,musquee,11
+P6,Pure Poison,patchouli,4.5
+P6,Pure Poison,vert,4
+P6,Shalimar,ambre,6
+P6,Shalimar,fleur_oranger,5
+P6,Shalimar,floralrose,3.5
+P6,Shalimar,fruite,3
+P6,Shalimar,hesperide,11
+P6,Shalimar,musquee,4
+P6,Shalimar,patchouli,11
+P6,Shalimar,vert,4
