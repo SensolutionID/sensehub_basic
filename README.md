@@ -1,13 +1,13 @@
 # **SenseHub**
 
 ## Deskripsi
-SenseHub merupakan aplikasi web yang dikembangkan khusus untuk analisa data sensoris. SenseHub menawarkan fitur-fitur yang dikembangkan khusus untuk data sensoris, meliputi rancangan penelitian hingga analisa data sensoris. Di balik layar, SenseHub menggunakan R untuk melakukan kalkulasi dan analisa data. Pengembang berusaha untuk membuat SensHub menjadi aplikasi web ramah pengguna dengan menyajikan antarmuka yang sederhana dan intuitif. Salah satu keunggulan SenseHub adalah menggunakan Bahasa Indonesia sehingga mudah dipahami oleh pengguna dari Indonesia untuk data sensoris yang mereka miliki. Hal ini menjadikan SenseHub sebagai satu-satunya aplikasi analisa sensoris berbasis web di Indonesia.
+SenseHub merupakan aplikasi web yang dikembangkan khusus untuk analisis data sensoris. SenseHub menawarkan fitur-fitur yang dikembangkan khusus untuk data sensoris, meliputi rancangan penelitian hingga analisa data sensoris. Di balik layar, SenseHub menggunakan R untuk melakukan kalkulasi dan analisa data. Pengembang berusaha untuk membuat SensHub menjadi aplikasi web ramah pengguna dengan menyajikan antarmuka yang sederhana dan intuitif. Salah satu keunggulan SenseHub adalah menggunakan Bahasa Indonesia sehingga mudah dipahami oleh pengguna dari Indonesia untuk data sensoris yang mereka miliki. Hal ini menjadikan SenseHub sebagai satu-satunya aplikasi analisa sensoris berbasis web di Indonesia.
 
 ## Pengembang
 SenseHub dikembangkan oleh [Muhammad Aswan Syahputra](https://aswansyahputra.com), mahasiswa pascasarjana ilmu sensoris di Wageningen University and Research, The Netherlands dan lulusan ilmu dan teknologi pangan dari Universitas Brawijaya, Indonesia. SenseHub dikembangkan dengan kerjasama serta bimbingan dari Kiki Fibrianto, STP., M.Phil., Ph.D (Universitas Brawijaya) dan dr. Betina Piqueras-Fiszman (Wageningen University and Research).
 
 ## Cara Mensitasi
-Muhammad Aswan Syahputra. (2018, August 8). SenseHub: Aplikasi Web Terintegrasi untuk Analisis Sensoris (Version v.1.0). Zenodo. http://doi.org/10.5281/zenodo.1341670
+Syahputra, M. A. (2018, August 19). SenseHub: Aplikasi Web Terintegrasi untuk Analisis Sensoris. https://doi.org/10.17605/OSF.IO/9GZRN
 
 ## Referensi
 
